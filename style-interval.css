@@ -1,0 +1,6 @@
+.message-interval-success{
+    display: grid;
+    justify-content: center;
+    width: fit-content;
+    margin: 5% auto;
+}

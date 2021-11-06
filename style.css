@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+
+form{
+    display: grid;
+    width: fit-content;
+    justify-content: center;
+    margin: 2% auto;
+    background-color: #a7d6e9;
+    padding: 1rem;
+    border-radius: 5px;
+}
+
+form h2{
+    margin: 1rem 0;
+}
+
+.container-buttons{
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+}
